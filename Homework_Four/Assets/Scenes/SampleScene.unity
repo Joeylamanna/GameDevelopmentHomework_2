@@ -462,7 +462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 787603247}
   thrustSound: {fileID: 8300000, guid: 0b025c135f58446eda14e3017b71e921, type: 3}
-  rocketThrust: 50
+  rocketThrust: 75
   rocketRotation: 10
 --- !u!65 &787603242
 BoxCollider:
